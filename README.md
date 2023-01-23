@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 -->
+<h3 align="center">Follow me on:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Kholochelam"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
