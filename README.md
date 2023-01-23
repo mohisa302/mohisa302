@@ -1,26 +1,44 @@
-### Hi there 👋
+<p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Mohi!>;<Nice+to+meet+you!>">
+</a></hp>
 
 <!--
 **mohisa302/mohisa302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Mohi! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<p align='center'>
+<a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Kholochelam"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+<div align="center">
 
+`Full stack Developer` 💻 
+ 
+<p>
+<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=mohisa302.visitor-badge"></a>&nbsp; 
+</a>&nbsp;
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohi%20Sadeghi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohadese-sadeghi-692551199/)](https://www.linkedin.com/in/mohadese-sadeghi-692551199/)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Kholochelam)](https://twitter.com/Kholochelam)
+<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
+<br>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohisa302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+<br>
+<h2 align="center"> 📈 Statistics </h2>
+<div align="center">
+  
+![Mohi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohisa302&show_icons=true&theme=radical)
+  
+</div>
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
-- 🔭 I’m currently student at Microverse
-- 🌱 I’m currently learning AI 
+<h2 align="center">🤝 Support</h2>
+
+<div align="center">
+<p> 🤝 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
+</div
+  
