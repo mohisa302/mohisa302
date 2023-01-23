@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=mohisa302.visitor-badge"></a>&nbsp; 
 </a>&nbsp;
 </div>
-
+<br>
 <h3 align="center">Follow me on:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
