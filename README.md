@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 <p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
 </div
   
+![Snake animation](https://github.com/mohisa302/mohisa302/blob/output/github-contribution-grid-snake.svg)
