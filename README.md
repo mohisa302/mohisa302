@@ -36,6 +36,14 @@ Here are some ideas to get you started:
 ![Mohi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohisa302&show_icons=true&theme=radical)
   
 </div>
+  
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/mohisa302/mohisa302/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <h2 align="center">🤝 Support</h2>
 
@@ -43,5 +51,3 @@ Here are some ideas to get you started:
 <p> 🤝 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 <p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
 </div
-  
-![Snake animation](https://github.com/mohisa302/mohisa302/blob/output/github-contribution-grid-snake.svg)
