@@ -62,6 +62,14 @@ Here are some ideas to get you started:
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Git" />
       <br>React JS
     </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="Git" />
+      <br>MATLAB
+    </td>
+        <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48" height="48" alt="Git" />
+      <br>C
+    </td>
 </tr>
   
 </table>
