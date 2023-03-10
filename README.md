@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Git" />
-      <br>React 
+      <br>React JS
     </td>
 </tr>
   
