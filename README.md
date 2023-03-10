@@ -26,6 +26,48 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   
+ <table align="center">
+<tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      <br>JavaScript
+    </td>
+ <td align="center" width="96">
+        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+   <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>  
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
+      <br>Node JS
+    </td> 
+   <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      <br>VS Code
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
+      <br>GitHub
+    </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Git" />
+      <br>Python 
+    </td>
+</tr>
+  
+</table>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohisa302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
