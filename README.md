@@ -64,6 +64,10 @@ Here are some ideas to get you started:
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Git" />
       <br>Python 
     </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Git" />
+      <br>React 
+    </td>
 </tr>
   
 </table>
