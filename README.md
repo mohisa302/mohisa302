@@ -47,24 +47,18 @@ Here are some ideas to get you started:
    <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       <br>VS Code
-    </td>
+   </td>
 </tr>
 <tr>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="48" height="48" alt="Css3" />
-      <br>GitHub
-    </td>
-      </td>
-      <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-      </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Git" />
       <br>Python 
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Git" />
       <br>React 
     </td>
