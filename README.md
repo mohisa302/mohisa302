@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 `Full stack Developer` 💻 
  
 <p>
-<a href="https://visitor-badge.glitch.me/#docs"><img src="https://visitor-badge.glitch.me/badge?page_id=mohisa302.visitor-badge"></a>&nbsp; 
 </a>&nbsp;
 </div>
 <br>
