@@ -1,5 +1,5 @@
 <p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
-<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Mohi!>;<Nice+to+meet+you!>">
+<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Tooba!>;<Nice+to+meet+you!>">
 </a></hp>
 
 <!--
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 <p>
 </a>&nbsp;
 </div>
+<!--
 <br>
 <h3 align="center">Follow me on:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
+-->
 </p>
 
 <h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
