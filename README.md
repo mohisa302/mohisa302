@@ -1,8 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-<img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=500&lines=Hi+there,+I'm+Mohi+👋;Software+Developer;Backend+%26+Software+Architecture;Clean+Architecture+%7C+DDD+%7C+CQRS;Always+Learning+New+Technologies">
+<img width="65%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=800&lines=Hi+there,+I'm+Mohi+👋;Software+Developer+💻;Always+Learning+📚;Open+to+New+Opportunities+🚀">
 </a>
+
+
 
 <br/>
 
