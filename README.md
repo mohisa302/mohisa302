@@ -1,103 +1,142 @@
-<p align="center"> <a href="https://github.com/denvercoder1/readme-typing-svg">
-<img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Tooba!>;<Nice+to+meet+you!>">
-</a></hp>
-
-<!--
-**mohisa302/mohisa302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <div align="center">
 
-`Full stack Developer` 💻 
+<a href="https://github.com/denvercoder1/readme-typing-svg">
+<img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=500&lines=Hi+there,+I'm+Mohi+👋;Senior+.NET+Developer;Backend+%26+Software+Architecture;Clean+Architecture+%7C+DDD+%7C+CQRS;Always+Learning+New+Technologies">
+</a>
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohisa302&label=Profile%20views&color=0e75b6&style=flat" alt="mohisa302" /> </p>
+<br/>
 
-<p>
-</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mohisa302&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+
 </div>
-<!--
-<br>
-<h3 align="center">Follow me on:</h3>
-<p align='center'>
-<a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
--->
-</p>
 
-<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
-<br>
+---
+
+# 💫 About Me
+
+I'm a passionate **.NET Developer** focused on building scalable, maintainable, and high-performance applications.
+
+🔹 Backend & Full-Stack Development
+🔹 ASP.NET Core & .NET 8
+🔹 Clean Architecture & DDD
+🔹 CQRS / MediatR
+🔹 SQL Server & Redis
+🔹 Docker & Cloud Technologies
+🔹 Performance Optimization & Distributed Systems
+
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
-  
- <table align="center">
-<tr>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
- <td align="center" width="96">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
-      <br>HTML
-    </td>
-   <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>  
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Vuejs" />
-      <br>Node JS
-    </td> 
-   <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      <br>VS Code
-   </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Git" />
-      <br>Python 
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Git" />
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="Git" />
-      <br>MATLAB
-    </td>
-        <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="48" height="48" alt="Git" />
-      <br>C
-    </td>
-</tr>
-  
-</table>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohisa302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+<a href="https://www.linkedin.com/in/mohadese-sadeghi-692551199">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
-<br>
-<h2 align="center"> 📈 Statistics </h2>
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
-  
-![Mohi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohisa302&show_icons=true&theme=radical)
-  
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,linux" />
+
 </div>
-  
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/mohisa302/mohisa302/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+---
 
-<h2 align="center">🤝 Support</h2>
+# 🏗 Architecture & Engineering
+
+```text
+✔ Clean Architecture
+✔ Domain Driven Design (DDD)
+✔ CQRS & MediatR
+✔ REST APIs
+✔ Entity Framework Core
+✔ Authentication & Authorization
+✔ Redis Caching
+✔ Docker Containerization
+✔ Microservices
+✔ Distributed Systems
+```
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-<p> 🤝 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p>💙 If you like what i do, give me some ⭐'s and share with your friends!</p>
-</div
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohisa302&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohisa302&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohisa302&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohisa302&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/mohisa302/mohisa302/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+* Building enterprise-grade .NET applications
+* High-performance APIs
+* Distributed systems
+* Redis caching strategies
+* Docker & containerized deployments
+* Software architecture and scalability
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects useful, consider giving them a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
